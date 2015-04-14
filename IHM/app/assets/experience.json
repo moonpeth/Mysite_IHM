@@ -1,0 +1,15 @@
+
+{
+
+"stages": [ 
+ {"stage": "Février. 2015 : Développement Android - Projet de fin de la semestre – Polytech Nice-Sophia, France"},
+ {"stage": "Juin - Sept. 2013  : Logicienne Frontale –Stage à l'Entreprise Hisoft – Pékin, Chine"},
+ {"stage": "Oct.2012-Avril.2013 : Ingénieur en java – Projet 'Lunettes pour l'aveugle sur analyse d'image' – WuHan, Chine"},
+ {"stage": "Juillet-Sep.2012 : Développement Android - Projet de fin de la semestre Polytech, Nice-Sophia, France"}
+ ],
+ 
+ "projects": [
+ {"project": "university"}
+ ]
+
+}

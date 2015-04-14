@@ -1,0 +1,11 @@
+
+{
+
+"competences": [ 
+ {"langages": "C, C++, Java, XML, HTML5, CSS, UML, SQL, Schema de conception"},
+ {"bureautiques": "MSoffice"},
+ {"environnements": "Linux, Windows"},
+ {"logiciels": "Eclipse, Visual Studio, OpenGL, Photoshop, Dreamweaver, Git"}
+ ]
+
+}

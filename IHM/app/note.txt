@@ -1,0 +1,18 @@
+/   main.js (dans control)
+
+
+index.html   div --> ng-view , 
+
+**relation entre main.html et le control main.js
+
+index.html :  ajouter le bonton 'Education',    -------------- <li><a ng-href="#/education">Education</a></li>
+              
+              ajouter le lien .js                --------------   <script src="scripts/controllers/education.js"></script>
+ 
+app.js :  créer le lien  ------------------   .when('/education', {
+                                               templateUrl: 'views/education.html',
+                                               controller: 'EducationCtrl'
+                                               })             
+
+écrire  .html
+        .js   (utilise  .json pour le data)
